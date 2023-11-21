@@ -1,4 +1,4 @@
-# Hi, I’m @Dan1mir
+# @Dan1mir Online
 Here I will be showing my progress in learning different things and I will be sharing grand projects in the future.
 - I'm interested in Full-stack website design. 
 - I'm learning Python and C# out of curiosity. 
