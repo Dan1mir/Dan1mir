@@ -1,5 +1,34 @@
 # @Dan1mir Online
-Here I will be showing my progress in learning different things and I will be sharing grand projects in the future.
-- I'm interested in Full-stack website design. 
-- I'm learning Python and C# out of curiosity. 
-- I know English well, additionally I study German. 
+```C#
+ᚢᛋᛁᚾᚷ ᛋᚤᛋᛏᛖᛗ;
+ᚢᛋᛁᚾᚷ ᚷᚺᛟᛋᛏᛚᚤᛋᛈᛁᚱᛁᛏᛋ;
+
+ᚾᚨᛗᛖᛋᛈᚨᚲᛖ ᚺᚨᚢᚾᛏᛖᛞᚺᛟᚢᛋᛖ
+{
+    ᚲᛚᚨᛋᛋ ᛈᚱᛟᚷᚱᚨᛗ
+    {
+        ᛋᛏᚨᛏᛁᚲ ᚡᛟᛁᛞ ᛗᚨᛁᚾ(ᛋᛏᚱᛁᚾᚷ[] ᚨᚱᚷᛋ)
+        {
+            ᚷᚺᛟᛋᛏ ᚷᚺᛟᛋᛏ = ᚾᛖᚹ ᚷᚺᛟᛋᛏ();
+            ᛈᛟᛚᛏᛖᚱᚷᛖᛁᛋᛏ ᛈᛟᛚᛏᛖᚱᚷᛖᛁᛋᛏ = ᚾᛖᚹ ᛈᛟᛚᛏᛖᚱᚷᛖᛁᛋᛏ();
+            ᛋᛈᛖᚲᛏᛖᚱ ᛋᛈᛖᚲᛏᛖᚱ = ᚾᛖᚹ ᛋᛈᛖᚲᛏᛖᚱ();
+
+            ᛏᚱᚤ
+            {
+                ᚷᚺᛟᛋᛏ.ᛋᚢᛗᛗᛟᚾ();
+                ᛈᛟᛚᛏᛖᚱᚷᛖᛁᛋᛏ.ᛏᚺᚱᛟᚹᚠᚢᚱᚾᛁᛏᚢᚱᛖ();
+                ᛋᛈᛖᚲᛏᛖᚱ.ᚺᚨᚢᚾᛏ();
+
+                ᚷᚺᛟᛋᛏᛈᚨᚱᛏᚤ ᛈᚨᚱᛏᚤ = ᚾᛖᚹ ᚷᚺᛟᛋᛏᛈᚨᚱᛏᚤ();
+                ᛈᚨᚱᛏᚤ.ᛁᚾᚡᛁᛏᛖ(ᚷᚺᛟᛋᛏ);
+                ᛈᚨᚱᛏᚤ.ᛁᚾᚡᛁᛏᛖ(ᛈᛟᛚᛏᛖᚱᚷᛖᛁᛋᛏ);
+                ᛈᚨᚱᛏᚤ.ᛁᚾᚡᛁᛏᛖ(ᛋᛈᛖᚲᛏᛖᚱ);
+            }
+            ᚲᚨᛏᚲᚺ (ᛋᛈᛁᚱᛁᛏᚾᛟᛏᚠᛟᚢᚾᛞᛖᛪᚲᛖᛈᛏᛁᛟᚾ ᛖᛪ)
+            {
+                ᚲᛟᚾᛋᛟᛚᛖ.ᚹᚱᛁᛏᛖᛚᛁᚾᛖ(ᛖᛪ);
+            }
+        }
+    }
+}
+```
